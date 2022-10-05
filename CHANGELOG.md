@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/mithRabbit/testConventionalcommit/compare/v1.2.0...v2.0.0) (2022-10-05)
+
+
+### ⚠ BREAKING CHANGES
+
+* breaking data
+
+### Features
+
+* breaking data ([c87702f](https://github.com/mithRabbit/testConventionalcommit/commit/c87702f1aa0350800ae992a242de08edb4e81664))
+
 ## [1.2.0](https://github.com/mithRabbit/testConventionalcommit/compare/v1.1.1...v1.2.0) (2022-10-05)
 
 
