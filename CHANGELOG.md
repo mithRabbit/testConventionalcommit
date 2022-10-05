@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.0.0](https://github.com/mithRabbit/testConventionalcommit/compare/v2.0.0...v3.0.0) (2022-10-05)
+
+
+### ⚠ BREAKING CHANGES
+
+* breaking fix
+
+### Bug Fixes
+
+* breaking fix ([d3435c4](https://github.com/mithRabbit/testConventionalcommit/commit/d3435c4c36bb6794c8933793f79bfdb93593b343))
+
 ## [2.0.0](https://github.com/mithRabbit/testConventionalcommit/compare/v1.2.0...v2.0.0) (2022-10-05)
 
 
