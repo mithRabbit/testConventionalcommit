@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/mithRabbit/testConventionalcommit/compare/v1.1.1...v1.2.0) (2022-10-05)
+
+
+### Features
+
+* data added ([26c2a44](https://github.com/mithRabbit/testConventionalcommit/commit/26c2a44a6485c44cc18069d2c03b2f22d1a0696d))
+
 ## [1.1.1](https://github.com/mithRabbit/testConventionalcommit/compare/v1.1.0...v1.1.1) (2022-10-05)
 
 
