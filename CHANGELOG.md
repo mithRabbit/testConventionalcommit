@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.0](https://github.com/mithRabbit/testConventionalcommit/compare/v3.0.0...v3.1.0) (2022-10-05)
+
+
+### Features
+
+* workflow updated ([976a242](https://github.com/mithRabbit/testConventionalcommit/commit/976a2427b3064eda1a36f4ce7f2b842e26ae478c))
+
 ## [3.0.0](https://github.com/mithRabbit/testConventionalcommit/compare/v2.0.0...v3.0.0) (2022-10-05)
 
 
