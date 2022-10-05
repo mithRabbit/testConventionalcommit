@@ -11,3 +11,4 @@ jobs:
         with:
           release-type: go
           package-name: release-please-action
+          pull-request-title-pattern: "chore: Tagging ${scope} branch ${version}"
