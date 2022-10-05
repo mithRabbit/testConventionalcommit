@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/mithRabbit/testConventionalcommit/compare/v1.1.0...v1.1.1) (2022-10-05)
+
+
+### Bug Fixes
+
+* workflow updated ([635c26b](https://github.com/mithRabbit/testConventionalcommit/commit/635c26b61904dfdaa5d68e30e3bada7566d9dca6))
+
 ## [1.1.0](https://github.com/mithRabbit/testConventionalcommit/compare/v1.0.0...v1.1.0) (2022-10-04)
 
 
