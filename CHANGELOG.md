@@ -1,5 +1,22 @@
 # Changelog
 
+## [4.0.0](https://github.com/mithRabbit/testConventionalcommit/compare/v3.1.1...v4.0.0) (2022-10-06)
+
+
+### ⚠ BREAKING CHANGES
+
+* break api
+
+### Features
+
+* new api ([c9244f5](https://github.com/mithRabbit/testConventionalcommit/commit/c9244f51cf9c4bb1d0c27a4b5f2e56d25d62539d))
+
+
+### Bug Fixes
+
+* api ([3f694c2](https://github.com/mithRabbit/testConventionalcommit/commit/3f694c2d15dff9106a48336dcab2f557fd4af687))
+* break api ([5bb7d55](https://github.com/mithRabbit/testConventionalcommit/commit/5bb7d552f74c0545bf8098cb34156e4859c24f78))
+
 ## [3.1.1](https://github.com/mithRabbit/testConventionalcommit/compare/v3.1.0...v3.1.1) (2022-10-06)
 
 
