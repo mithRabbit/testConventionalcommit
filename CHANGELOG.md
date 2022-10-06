@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.1](https://github.com/mithRabbit/testConventionalcommit/compare/v3.1.0...v3.1.1) (2022-10-06)
+
+
+### Bug Fixes
+
+* api update ([1f07012](https://github.com/mithRabbit/testConventionalcommit/commit/1f07012cd29555a1a2a23da4d181fdb9e33651b9))
+
 ## [3.1.0](https://github.com/mithRabbit/testConventionalcommit/compare/v3.0.0...v3.1.0) (2022-10-05)
 
 
